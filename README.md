@@ -18,8 +18,8 @@ Purpose: Manage users, view analytics, and handle products easily in a modern da
 
 
 ## install the this package is must:
-npm install
-npm react-router-dom
-npm install chart.js react-chartjs-2
-npm install react-icons
-npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+1.npm install
+2.npm react-router-dom
+3.npm install chart.js react-chartjs-2
+4.npm install react-icons
+5.npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
